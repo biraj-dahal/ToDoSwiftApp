@@ -29,6 +29,8 @@ The following **additional** features are implemented:
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2023-10-28 at 19 57 34](https://github.com/biraj-dahal/ToDoSwiftApp/assets/102353731/78d5febe-43c2-4e5a-87e8-434f300be4bb)
 
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-03 at 10 25 26](https://github.com/biraj-dahal/ToDoSwiftApp/assets/102353731/f86f0347-be6f-421a-9d6c-82c7f0296c51)
+
 ## Notes
 
 Describe any challenges encountered while building the app.
